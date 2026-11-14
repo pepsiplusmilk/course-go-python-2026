@@ -1,6 +1,7 @@
 package main
 
+import "github.com/tcarzverey/course-go-python/homeworks/hw1/dice/cmd"
+
 func main() {
-	// TODO: отсюда можете начинать писать свой код
-	panic("implement me")
+	cmd.Execute()
 }
